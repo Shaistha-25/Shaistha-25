@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Shaistha-25/Shaistha-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shaistha Saba I.S
 
-Here are some ideas to get you started:
+🎓 Aspiring **Data Scientist & Analyst** and **Full-Stack Web Developer** with skills in Python, Machine Learning, SQL, PHP, Laravel, Django, and React.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently pursuing MCA (Data Science) at Jain University.
+
+---
+
+### 🚧 Projects Coming Soon
+
+I'm actively working on the following:
+- 📊 Data analysis dashboards (Power BI, Excel)
+- 🔍 Machine Learning models (Python, Scikit-learn)
+- 🌐 Full-stack web apps (PHP, Django, Laravel)
+
+I'll be uploading them shortly — stay tuned!
+
+---
+
+### 📫 Connect With Me
+📍 Kochi, India
+📧 shaistharuby25@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/shaistha-saba)  
+💻 [GitHub Projects](https://github.com/Shaistha-25)
+
+---
+
+
