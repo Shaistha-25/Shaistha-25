@@ -20,7 +20,7 @@ I'll be uploading them shortly — stay tuned!
 
 ### 📫 Connect With Me
 
-📍 Kochi, India
+📍 Kochi, India  
 📧 shaistharuby25@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/shaistha-saba)  
 💻 [GitHub Projects](https://github.com/Shaistha-25)
