@@ -13,7 +13,7 @@ Code. Create. Analyze. Repeat. 🚀  <br><br>I’m an MCA graduate and Web Devel
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaistha-25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 > ─────────────────────────  
-> 💡 *Every bug fixed is a lesson learned.*  
+> 💡 " *Every bug fixed is a lesson learned.* "  
 > ─────────────────────────
 
 ---
