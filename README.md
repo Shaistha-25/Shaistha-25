@@ -1,5 +1,5 @@
 # 💫 About Me:
-Code. Create. Analyze. Repeat. 🚀  <br><br>I’m an MCA graduate and Web Developer with 2+ years of experience building responsive, SEO-friendly websites using WordPress, PHP, and MySQL.  <br><br>I’m now exploring Data Science, working with Python, SQL, Excel, and Tableau to turn raw data into meaningful insights. With a strong foundation in development and databases, I enjoy solving problems at the intersection of code, data, and business.  <br><br>Currently building projects, learning every day, and growing into a data-driven professional.<br>
+Code. Create. Analyze. Repeat. 🚀  <br><br>I’m an MCA graduate and Web Developer with 2+ years of hands on experience building responsive, SEO-friendly websites using WordPress, PHP, and MySQL.  <br><br>I’m now exploring Data Science, working with Python, SQL, Excel, and Tableau to turn raw data into meaningful insights. With a strong foundation in development and databases, I enjoy solving problems at the intersection of code, data, and business.  <br><br>Currently building projects, learning every day, and growing into a data-driven professional.<br>
 
 
 ## 🌐 Socials:
